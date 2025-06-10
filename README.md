@@ -66,7 +66,7 @@ Using limited but relevant local data leads to more accurate housing price predi
 
 ### Prerequisites
 
-* Python 3.x
+* Python 3
 * Libraries: TensorFlow/Keras, Pandas, NumPy, Scikit-learn, Matplotlib
 
 ## Acknowledgements
