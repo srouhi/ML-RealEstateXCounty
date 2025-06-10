@@ -74,7 +74,3 @@ Using limited but relevant local data leads to more accurate housing price predi
 * Data sourced from King County and Lancaster County Assessor Offices.
 * Inspired by real estate analytics research and small-county assessor needs.
 
-## Contact
-
-For questions or collaborations, contact \[Shaghayegh Rouhi] at \[[Shaghayegh.rouhi.sr@gmail.com](mailto:Shaghayegh.rouhi.sr@gmail.com)].
-
