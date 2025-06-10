@@ -1,6 +1,6 @@
 # ML-RealEstateXCounty  
 
-## Real Estate Price Prediction for Small County Assessors
+Real Estate Price Prediction for Small County Assessors
 
 ## Project Overview
 
